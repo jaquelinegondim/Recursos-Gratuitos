@@ -9,9 +9,9 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 
 
 - [Curso em Vídeo](https://www.cursoemvideo.com/): o certificado é pago e custa R$25. 
-  - [x] [Algoritmo](https://www.cursoemvideo.com/course/curso-de-algoritmo/) (40h) - Concluído em 31/05/2021
-  - [x] [Git e Github](https://www.cursoemvideo.com/course/curso-de-git-e-github/) (20h) - Concluído em 20/03/2021
-  - [ ] Java Básico (40h) - Iniciado em 01/06/2021
+  - [x] [Algoritmo](https://www.cursoemvideo.com/course/curso-de-algoritmo/) (40h) | Concluído em 31/05/2021
+  - [x] [Git e Github](https://www.cursoemvideo.com/course/curso-de-git-e-github/) (20h) | Concluído em 20/03/2021
+  - [ ] Java Básico (40h) | Iniciado em 01/06/2021
   - [ ] Java POO (40h)
 
 - [Loiane Training](https://loiane.training/): possui cursos de Java e Angular. O certificado é gratuito.
@@ -20,8 +20,8 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
   - [ ] [Angular](https://loiane.training/curso/angular) (28h)
 
 - [MaisMulheres.Tech](https://maismulheres.tech/): certificado gratuito e acesso durante 30 dias a contar do momento da inscrição no curso.
-  - [x] [Dicas e truques com VSCode](https://maismulheres.tech/p/dicas-e-truques-com-visual-studio-code) (1h) - Concluído em 02/04/2021
-  - [x] [Introdução a Cloud Computing](https://maismulheres.tech/p/introducao-a-cloud-computing) (3h) - Concluído em 15/04/2021
+  - [x] [Dicas e truques com VSCode](https://maismulheres.tech/p/dicas-e-truques-com-visual-studio-code) (1h) | Concluído em 02/04/2021
+  - [x] [Introdução a Cloud Computing](https://maismulheres.tech/p/introducao-a-cloud-computing) (3h) | Concluído em 15/04/2021
   
 - [Digital Innovation One](https://digitalinnovation.one/): possui certificado gratuito e *bootcamps* gratuitos patrocinados por empresas.
   - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital - Previsão de término: 17/07/2021
@@ -37,16 +37,16 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 
 
 - [Coursera](https://www.coursera.org/): o certificado é pago, porém a plataforma [Class Central](https://www.classcentral.com/) costuma divulgar listas com vários cursos com certificados gratuitos incluindo alguns do Coursera. 
-  - [ ] [Version Control with Git](https://www.coursera.org/learn/version-control-with-git?) by Atlassian University (13h) - Certificado gratuito até 30/06/2021 | Previsão de término: 18/06/2021
+  - [x] [Version Control with Git](https://www.coursera.org/learn/version-control-with-git?) by Atlassian University (13h) | Certificado gratuito até 30/06/2021 | [Concluído](https://coursera.org/share/27dcb426566897493e58b38b8bec8cce) em 13/06/2021 
   - [ ] [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-u8cATGNZDp5UPEfbDSkc0Q&siteID=SAyYsTvLiGQ-u8cATGNZDp5UPEfbDSkc0Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) by University of Toronto (25h)
   - [ ] [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gZfofTyGG2cutvbgSeM6AA&siteID=SAyYsTvLiGQ-gZfofTyGG2cutvbgSeM6AA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) by Princeton University (88h)
-
+- [Edx](https://www.edx.org/): o certificado é pago, mas o conteúdo é gratuito, com exceção das provas para obtenção do certificado. Há possibilidade de auxílio financeiro para adquirir o certificado.
+  - [ ] [MITx 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7?index=product&queryID=ad279ed7bcf40964b02b88634502110f&position=8) (~135h) | Previsão de término: 04/08/2021
 - [Code Academy](https://www.codecademy.com/learn): a maioria dos cursos é pago, mas há alguns gratuitos, sem certificado.
   - [x] Learn HTML (9h) - Concluído em 29/05/2021
   - [ ] Learn CSS (10h) - Iniciado em 30/05/2021
   - [ ] Learn Intermediate CSS (15h)
   - [ ] Learn Java (25h)
-
 - [CSS3 in 30 Days](https://codecollege.ca/p/css3-coding-challenge): desafio gratuito de CSS com 30 mini-desafios, sendo liberado 1 por dia.
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/): *bootcamp* gratuito com 10 certificações disponíveis.
 - [The Odin Project](https://www.theodinproject.com/paths): *bootcamp* gratuito com 2 trilhas para desenvolvimento web fullstack, sendo uma focada em JavaScript e outra em Ruby on Rails. Há uma trilha inicial que antecede a ambas e é focada em ensinar os fundamentos de lógica de programação.
