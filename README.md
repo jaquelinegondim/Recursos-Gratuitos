@@ -4,50 +4,73 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 
 
 
-## Cursos gratuitos em português
+## Conteúdos em português
+
+| Plataforma                                                   | Detalhes                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Curso em Vídeo](https://www.cursoemvideo.com/cursos/)       | Conteúdo gratuito, certificado custa R$25,00                 |
+| [Loiane Training](https://loiane.training/cursos)            | Certificado gratuito, cursos de Java e Angular               |
+| [Recode](https://recode.org.br/cursos/)                      | Certificado gratuito, formação em desenvolvimento web, possui seleção para *bootcamp* gratuito |
+| [Digital Innovation One](https://digitalinnovation.one/)     | Certificados gratuitos, possui *bootcamps* patrocinados por empresas |
+| [WoMakers Code](https://maismulheres.tech/)                  | Certificados gratuitos, acesso ao curso por 30 dias          |
+| [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login?redirect=%2Fpt) | Milhares de problemas em 11 linguagens de programação, possui competições e rankings |
+| [Neps Academy](https://neps.academy/br/login)                | Centenas de problemas de programação em português e inglês   |
+| [Grasshopper](https://learn.grasshopper.app/)                | Desenvolvido pelo google para ensinar JavaScript por meio de jogos |
+| [Devaria](https://www.devaria.com.br/)                       | *Bootcamp* gratuito que ensina HTML, CSS, JS, C#, Python, Kotlin com projetos que cobrem front-end, back-end e mobile |
 
 
 
-- [Curso em Vídeo](https://www.cursoemvideo.com/): o certificado é pago e custa R$25. 
+## Conteúdos em inglês
+
+| Plataforma                                                   | Detalhes                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Coursera](https://www.coursera.org/)                        | Conteúdo gratuito, certificado é pago, mas há a opção de solicitar auxílio financeiro |
+| [EDX](https://www.edx.org/)                                  | Conteúdo gratuito, certificado é pago, auxílio financeiro não cobre 100% |
+| [Eduonix](https://www.eduonix.com/courses/) / [Udemy](https://www.udemy.com/) / [Udacity](https://www.udacity.com/) / [Codeacademy](http://codeacademy.com/) | Há cursos pagos e gratuitos                                  |
+| [Freecodecamp](https://www.freecodecamp.org/learn/)          | Bootcamp com 10 certificações gratuitas que cobrem desde desenvolvimento web à análise de dados com python |
+| [The Odin Project](https://www.theodinproject.com/home)      | Bootcamp focado em desenvolvimento web                       |
+| [CSS3 in 30 Days](https://codecollege.ca/p/css3-coding-challenge) | Desafio gratuito com 30 mini-projetos em CSS                 |
+| [CSS3 in 100 Days](https://100dayscss.com/)                  | Desafio gratuito com 100 mini-projetos em CSS                |
+| [JS in 30 Days](https://javascript30.com/)                   | Desafio gratuito com 30 mini-projetos em JS                  |
+| [Front-end Master](https://www.frontendmentor.io/) / [Front-end Challenges Club](https://piccalil.li/category/front-end-challenges-club/) | Desafios de front-end focados em reproduzir páginas da web   |
+| [CodePen Challenges](https://codepen.io/challenges)          | Desafios mensais usando HTML, CSS e JS                       |
+| [Harvard CS50](https://www.classcentral.com/report/harvard-cs50-guide/) | É oferecido em várias plataformas, mas o certificado só é gratuito na plataforma da própria universidade, ver o guia do link |
+| [Exercism](https://exercism.io/) / [HackerRank](https://www.hackerrank.com/) / [Codewars](https://www.codewars.com/) / [CodinGame](https://www.codingame.com/start) | Milhares de exercícios de programação                        |
+| [CodeGym](https://codegym.cc/)                               | Cursos e desafios para aprender Java                         |
+| [JetBrains Academy](https://hyperskill.org/study-plan)       | Possui trilhas para Java e Python; É pago, mas é possível obter até 2 meses de gratuidade ao fazer o cadastro (tempo limitado) |
+| [Practice Python](https://www.practicepython.org/)           | 36 exercícios básicos para aprender a sintaxe de python      |
+
+
+
+## Registro dos cursos concluídos e em andamento
+
+###### Português:
+
+- [Curso em Vídeo](https://www.cursoemvideo.com/): 
   - [x] [Algoritmo](https://www.cursoemvideo.com/course/curso-de-algoritmo/) (40h) | Concluído em 31/05/2021
   - [x] [Git e Github](https://www.cursoemvideo.com/course/curso-de-git-e-github/) (20h) | Concluído em 20/03/2021
-  - [ ] Java Básico (40h) | Iniciado em 01/06/2021
-  - [ ] Java POO (40h)
-
-- [Loiane Training](https://loiane.training/): possui cursos de Java e Angular. O certificado é gratuito.
-  - [ ] [Java Básico](https://loiane.training/curso/java-basico) (23h)
-  - [ ] [Java Intermediário](https://loiane.training/curso/java-intermediario) (9h)
-  - [ ] [Angular](https://loiane.training/curso/angular) (28h)
-
-- [MaisMulheres.Tech](https://maismulheres.tech/): certificado gratuito e acesso durante 30 dias a contar do momento da inscrição no curso.
+  - [ ] Java Básico (40h) | Em andamento
+  
+- [MaisMulheres.Tech](https://maismulheres.tech/): 
   - [x] [Dicas e truques com VSCode](https://maismulheres.tech/p/dicas-e-truques-com-visual-studio-code) (1h) | Concluído em 02/04/2021
   - [x] [Introdução a Cloud Computing](https://maismulheres.tech/p/introducao-a-cloud-computing) (3h) | Concluído em 15/04/2021
   
-- [Digital Innovation One](https://digitalinnovation.one/): possui certificado gratuito e *bootcamps* gratuitos patrocinados por empresas.
-  - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital - Previsão de término: 17/07/2021
-  
-- [Recode](https://recode.org.br/cursos/): além dos cursos com certificado gratuito, a Recode também oferece o *bootcamp* [RecodePro](https://www.recodepro.org.br/), destinado a pessoas de baixa renda e com foco em empregabilidade.
+- [Digital Innovation One](https://digitalinnovation.one/): 
+  - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital: Faltou o projeto, estudar Java com Maven e Spring Boot por outras referências e tentar este projeto de novo em outro *bootcamp* da DIO
+  - [ ] Bootcamp Santander Fullstack Developer: Possui o projeto anterior e outros | Em andamento
 
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login?redirect=%2Fpt): plataforma com milhares de problemas de programação divididos em 8 categorias. Todos os problemas estão disponíveis em português e em inglês.
+###### Inglês:
 
+- [Coursera](https://www.coursera.org/): 
+  - [x] [Version Control with Git](https://www.coursera.org/learn/version-control-with-git?) by Atlassian University (13h) | Concluído em 13/06/2021 | [Certificado](https://coursera.org/share/27dcb426566897493e58b38b8bec8cce)
 
+- [Edx](https://www.edx.org/): 
+  - [ ] [MITx 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7?index=product&queryID=ad279ed7bcf40964b02b88634502110f&position=8) (~135h) | Em andamento
 
-## Cursos gratuitos em inglês
-
-
-
-- [Coursera](https://www.coursera.org/): o certificado é pago, porém a plataforma [Class Central](https://www.classcentral.com/) costuma divulgar listas com vários cursos com certificados gratuitos incluindo alguns do Coursera. 
-  - [x] [Version Control with Git](https://www.coursera.org/learn/version-control-with-git?) by Atlassian University (13h) | Certificado gratuito até 30/06/2021 | [Concluído](https://coursera.org/share/27dcb426566897493e58b38b8bec8cce) em 13/06/2021 
-  - [ ] [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-u8cATGNZDp5UPEfbDSkc0Q&siteID=SAyYsTvLiGQ-u8cATGNZDp5UPEfbDSkc0Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) by University of Toronto (25h)
-  - [ ] [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gZfofTyGG2cutvbgSeM6AA&siteID=SAyYsTvLiGQ-gZfofTyGG2cutvbgSeM6AA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ) by Princeton University (88h)
-- [Edx](https://www.edx.org/): o certificado é pago, mas o conteúdo é gratuito, com exceção das provas para obtenção do certificado. Há possibilidade de auxílio financeiro para adquirir o certificado.
-  - [ ] [MITx 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7?index=product&queryID=ad279ed7bcf40964b02b88634502110f&position=8) (~135h) | Previsão de término: 04/08/2021
-- [Code Academy](https://www.codecademy.com/learn): a maioria dos cursos é pago, mas há alguns gratuitos, sem certificado.
+- [Code Academy](https://www.codecademy.com/learn): 
   - [x] Learn HTML (9h) - Concluído em 29/05/2021
-  - [ ] Learn CSS (10h) - Iniciado em 30/05/2021
-  - [ ] Learn Intermediate CSS (15h)
+  - [ ] Learn CSS (10h) - Em andamento
   - [ ] Learn Java (25h)
-- [CSS3 in 30 Days](https://codecollege.ca/p/css3-coding-challenge): desafio gratuito de CSS com 30 mini-desafios, sendo liberado 1 por dia.
-- [FreeCodeCamp](https://www.freecodecamp.org/learn/): *bootcamp* gratuito com 10 certificações disponíveis.
-- [The Odin Project](https://www.theodinproject.com/paths): *bootcamp* gratuito com 2 trilhas para desenvolvimento web fullstack, sendo uma focada em JavaScript e outra em Ruby on Rails. Há uma trilha inicial que antecede a ambas e é focada em ensinar os fundamentos de lógica de programação.
+  
+  
 
