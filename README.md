@@ -63,7 +63,18 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 
 - [Coursera](https://www.coursera.org/): 
   - [x] [Version Control with Git](https://www.coursera.org/learn/version-control-with-git?) by Atlassian University (13h) | Concluído em 13/06/2021 | [Certificado](https://coursera.org/share/27dcb426566897493e58b38b8bec8cce)
-
+  - [x] Programa de cursos integrados: [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support) (30 semanas) | Concluído em 29/11/2020 | [Certificado](https://coursera.org/share/5aeec2052c2e5706dcdc158147f97c1a)
+    - [x] Technical Support Fundamentals | [Certificado](https://coursera.org/share/3b5c2da08e744cd313cf739088593b32)
+    - [x] The Bits and Bytes of Computer Networking | [Certificado](https://coursera.org/share/a2a959fb6776cc4d6079223d524ddd4d)
+    - [x] Operating Systems and You: Becoming a Power User | [Certificado](https://coursera.org/share/593fba13d2379e2688d2c04e6bd28924)
+    - [x] System Administration and IT Infrastructure Services | [Certificado](https://coursera.org/share/5d34faa10ceac4de6d8c066f1279adb3)
+    - [x] IT Security: Defense against the digital dark arts | [Certificado](https://coursera.org/share/7b85e58d7520bcda36b0632462f6d4bf)
+  - [x] Programa de cursos integrados: [Excel Skills for Business](https://www.coursera.org/specializations/excel) (24 semanas) | Concluído em 29/11/2020 | [Certificado](https://coursera.org/share/32976b449677f598daf112bf3f7568cd)
+    - [x] Essentials | [Certificado](https://coursera.org/share/58ab25d69adcfbe2d0a065990bb8bb1e)
+    - [x] Intermediate I | [Certificado](https://coursera.org/share/e865198ff2e453c77273ebe42c71a76a)
+    - [x] Intermediate II | [Certificado](https://coursera.org/share/fcf71ad056eef337698e0ec1886fe5be)
+    - [x] Advanced | [Certificado](https://coursera.org/share/75ea586946d88a888fabd75c437deb23)
+  
 - [Edx](https://www.edx.org/): 
   - [ ] [MITx 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7?index=product&queryID=ad279ed7bcf40964b02b88634502110f&position=8) (~135h) | Em andamento
 
