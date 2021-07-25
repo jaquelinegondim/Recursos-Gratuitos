@@ -26,7 +26,7 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Coursera](https://www.coursera.org/)                        | Conteúdo gratuito, certificado é pago, mas há a opção de solicitar auxílio financeiro |
 | [EDX](https://www.edx.org/)                                  | Conteúdo gratuito, certificado é pago, auxílio financeiro não cobre 100% |
-| [Eduonix](https://www.eduonix.com/courses/) / [Udemy](https://www.udemy.com/) / [Udacity](https://www.udacity.com/) / [Codeacademy](http://codeacademy.com/) | Há cursos pagos e gratuitos                                  |
+| [Eduonix](https://www.eduonix.com/courses/) \| [Udemy](https://www.udemy.com/) \| [Udacity](https://www.udacity.com/) \| [Codeacademy](http://codeacademy.com/) | Há cursos pagos e gratuitos                                  |
 | [Freecodecamp](https://www.freecodecamp.org/learn/)          | Bootcamp com 10 certificações gratuitas que cobrem desde desenvolvimento web à análise de dados com python |
 | [The Odin Project](https://www.theodinproject.com/home)      | Bootcamp focado em desenvolvimento web                       |
 | [CSS3 in 30 Days](https://codecollege.ca/p/css3-coding-challenge) | Desafio gratuito com 30 mini-projetos em CSS                 |
@@ -35,7 +35,7 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 | [Front-end Master](https://www.frontendmentor.io/) / [Front-end Challenges Club](https://piccalil.li/category/front-end-challenges-club/) | Desafios de front-end focados em reproduzir páginas da web   |
 | [CodePen Challenges](https://codepen.io/challenges)          | Desafios mensais usando HTML, CSS e JS                       |
 | [Harvard CS50](https://www.classcentral.com/report/harvard-cs50-guide/) | É oferecido em várias plataformas, mas o certificado só é gratuito na plataforma da própria universidade, ver o guia do link |
-| [Exercism](https://exercism.io/) / [HackerRank](https://www.hackerrank.com/) / [Codewars](https://www.codewars.com/) / [CodinGame](https://www.codingame.com/start) | Milhares de exercícios de programação                        |
+| [Exercism](https://exercism.io/) \| [HackerRank](https://www.hackerrank.com/) \| [Codewars](https://www.codewars.com/) \| [CodinGame](https://www.codingame.com/start) | Milhares de exercícios de programação                        |
 | [CodeGym](https://codegym.cc/)                               | Cursos e desafios para aprender Java                         |
 | [JetBrains Academy](https://hyperskill.org/study-plan)       | Possui trilhas para Java e Python; É pago, mas é possível obter até 2 meses de gratuidade ao fazer o cadastro (tempo limitado) |
 | [Practice Python](https://www.practicepython.org/)           | 36 exercícios básicos para aprender a sintaxe de python      |
@@ -44,22 +44,34 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 
 ## Registro dos cursos concluídos e em andamento
 
-###### Português:
+##### Português:
 
 - [Curso em Vídeo](https://www.cursoemvideo.com/): 
   - [x] [Algoritmo](https://www.cursoemvideo.com/course/curso-de-algoritmo/) (40h) | Concluído em 31/05/2021
   - [x] [Git e Github](https://www.cursoemvideo.com/course/curso-de-git-e-github/) (20h) | Concluído em 20/03/2021
   - [ ] Java Básico (40h) | Em andamento
-  
 - [MaisMulheres.Tech](https://maismulheres.tech/): 
-  - [x] [Dicas e truques com VSCode](https://maismulheres.tech/p/dicas-e-truques-com-visual-studio-code) (1h) | Concluído em 02/04/2021
-  - [x] [Introdução a Cloud Computing](https://maismulheres.tech/p/introducao-a-cloud-computing) (3h) | Concluído em 15/04/2021
-  
+  - [x] [Dicas e truques com VSCode](https://maismulheres.tech/p/dicas-e-truques-com-visual-studio-code) (1h) | Concluído em 02/04/2021 | [Certificado](https://drive.google.com/file/d/1uNa_ehaWLgdFxazPgIgWcFSX02OgxLDb/view?usp=sharing)
+  - [x] [Introdução a Cloud Computing](https://maismulheres.tech/p/introducao-a-cloud-computing) (3h) | Concluído em 15/04/2021 | [Certificado](https://drive.google.com/file/d/1wV14DK4jX906aD1sYoG-WnIUs9AJ1Vzm/view?usp=sharing)
+- [Gama Academy](https://www.gama.academy/):
+  - [x] We Can Code - Front-end (40h) | Concluído em 21/01/2021 | [Certificado](https://drive.google.com/file/d/1gtW8gzFjNKlemH2WDsgZTQKYRlkRAmwi/view?usp=sharing)
 - [Digital Innovation One](https://digitalinnovation.one/): 
   - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital: Faltou o projeto, estudar Java com Maven e Spring Boot por outras referências e tentar este projeto de novo em outro *bootcamp* da DIO
-  - [ ] Bootcamp Santander Fullstack Developer: Possui o projeto anterior e outros | Em andamento
+    - [x] Lógica de Programação Essencial (4h) | [Certificado](https://certificates.digitalinnovation.one/35272DF6)
+    - [x] Introdução ao Git e ao GitHub (5h) | [Certificado](https://certificates.digitalinnovation.one/28B01445)
+    - [x] SQL Server - Criando suas primeiras consultas (4h) | [Certificado](https://certificates.digitalinnovation.one/455E1D4C)
+    - [x] Desenvolvimento básico em Java (9h) | [Certificado](https://certificates.digitalinnovation.one/24BDFDAC)
+    - [x] Desenvolvimento avançado em Java (8h) | [Certificado](https://certificates.digitalinnovation.one/947DABD8)
+    - [x] Aprenda o que são estruturas de dados e algoritmos (2h) | [Certificado](https://certificates.digitalinnovation.one/B26297FE)
+    - [x] Implementando Collections e Streams com Java (6h) | [Certificado](https://certificates.digitalinnovation.one/5AA25F10)
+    - [x] Trabalhando com Banco de Dados utilizando JDBC e JPA (4h) | [Certificado](https://certificates.digitalinnovation.one/F7FA0485)
+    - [x] Introdução ao framework Spring Boot (2h) | [Certificado](https://certificates.digitalinnovation.one/2EFA3F9F)
+    - [ ] Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot (6h - projeto) 
+    - [x] Microsserviços em Spring Cloud com Java | [Certificado](https://certificates.digitalinnovation.one/732493BD)
+    - [x] Criando API Gateways no ambiente Azure Spring Cloud (6h) | [Certificado](https://certificates.digitalinnovation.one/6B0DEBBE)
+  - [ ]  Bootcamp Santander Fullstack Developer: Possui o projeto anterior e outros | Em andamento
 
-###### Inglês:
+##### Inglês:
 
 - [Coursera](https://www.coursera.org/): 
   - [x] [Version Control with Git](https://www.coursera.org/learn/version-control-with-git?) by Atlassian University (13h) | Concluído em 13/06/2021 | [Certificado](https://coursera.org/share/27dcb426566897493e58b38b8bec8cce)
@@ -75,9 +87,10 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
     - [x] Intermediate II | [Certificado](https://coursera.org/share/fcf71ad056eef337698e0ec1886fe5be)
     - [x] Advanced | [Certificado](https://coursera.org/share/75ea586946d88a888fabd75c437deb23)
   
-- [Edx](https://www.edx.org/): 
-  - [ ] [MITx 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7?index=product&queryID=ad279ed7bcf40964b02b88634502110f&position=8) (~135h) | Em andamento
-
+- [Udacity](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program): 
+  
+  - [ ] AWS Machine Learning Foundations | Em andamento
+  
 - [Code Academy](https://www.codecademy.com/learn): 
   - [x] Learn HTML (9h) - Concluído em 29/05/2021
   - [ ] Learn CSS (10h) - Em andamento
