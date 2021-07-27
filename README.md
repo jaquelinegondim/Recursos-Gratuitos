@@ -93,7 +93,7 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
   
 - [Code Academy](https://www.codecademy.com/learn): 
   - [x] Learn HTML (9h) - Concluído em 29/05/2021
-  - [ ] Learn CSS (10h) - Em andamento
+  - [x] Learn CSS (10h) - Concluído em 26/07/2021
   - [ ] Learn Java (25h)
   
   
