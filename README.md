@@ -55,6 +55,9 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
   - [x] [Introdução a Cloud Computing](https://maismulheres.tech/p/introducao-a-cloud-computing) (3h) | Concluído em 15/04/2021 | [Certificado](https://drive.google.com/file/d/1wV14DK4jX906aD1sYoG-WnIUs9AJ1Vzm/view?usp=sharing)
 - [Gama Academy](https://www.gama.academy/):
   - [x] We Can Code - Front-end (40h) | Concluído em 21/01/2021 | [Certificado](https://drive.google.com/file/d/1gtW8gzFjNKlemH2WDsgZTQKYRlkRAmwi/view?usp=sharing)
+- [Alura](https://www.alura.com.br/):
+  - [x] Git e GitHub: Controle e compartilhe o seu código (6h) | Concluído em 27/07/2021 | [Certificado](https://drive.google.com/file/d/1Q9-_mgQFQ9b3uIXnSAZrlklI0kdXnhLs/view?usp=sharing)
+  - [x] Java JRE e JDK: Escreva o seu primeiro código com Eclipse (8h) | Concluído em 27/07/2021 | [Certificado](https://drive.google.com/file/d/1XppKkS8RriG6G7-clxrCaks7DmkibcwJ/view?usp=sharing)
 - [Digital Innovation One](https://digitalinnovation.one/): 
   - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital: Faltou o projeto, estudar Java com Maven e Spring Boot por outras referências e tentar este projeto de novo em outro *bootcamp* da DIO
     - [x] Lógica de Programação Essencial (4h) | [Certificado](https://certificates.digitalinnovation.one/35272DF6)
