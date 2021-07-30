@@ -44,7 +44,7 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 
 ## Registro dos cursos concluídos e em andamento
 
-##### Português:
+#### Português:
 
 - [Curso em Vídeo](https://www.cursoemvideo.com/): 
   - [x] [Algoritmo](https://www.cursoemvideo.com/course/curso-de-algoritmo/) (40h) | Concluído em 31/05/2021
@@ -59,6 +59,7 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
   - [x] Git e GitHub: Controle e compartilhe o seu código (6h) | Concluído em 27/07/2021 | [Certificado](https://drive.google.com/file/d/1Q9-_mgQFQ9b3uIXnSAZrlklI0kdXnhLs/view?usp=sharing)
   - [x] Java JRE e JDK: Escreva o seu primeiro código com Eclipse (8h) | Concluído em 27/07/2021 | [Certificado](https://drive.google.com/file/d/1XppKkS8RriG6G7-clxrCaks7DmkibcwJ/view?usp=sharing)
   - [x] Java OO: Introdução à Orientação a Objetos (8h) | Concluído em 28/07/2021 | [Certificado](https://drive.google.com/file/d/1AyJdoBMygAMfzHI_7hkkq-t1PM1jVjE4/view?usp=sharing)
+  - [x] Java Polimorfismo: Entenda Herança e Interfaces (16h) | Concluído em 29/07/2021 | [Certificado](https://drive.google.com/file/d/1mmpRZ-Xb2Y5pZy2LR80vvLSPyudS3Cdm/view?usp=sharing)
 - [Digital Innovation One](https://digitalinnovation.one/): 
   - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital: Faltou o projeto, estudar Java com Maven e Spring Boot por outras referências e tentar este projeto de novo em outro *bootcamp* da DIO
     - [x] Lógica de Programação Essencial (4h) | [Certificado](https://certificates.digitalinnovation.one/35272DF6)
@@ -75,7 +76,7 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
     - [x] Criando API Gateways no ambiente Azure Spring Cloud (6h) | [Certificado](https://certificates.digitalinnovation.one/6B0DEBBE)
   - [ ]  Bootcamp Santander Fullstack Developer: Possui o projeto anterior e outros | Em andamento
 
-##### Inglês:
+#### Inglês:
 
 - [Coursera](https://www.coursera.org/): 
   - [x] [Version Control with Git](https://www.coursera.org/learn/version-control-with-git?) by Atlassian University (13h) | Concluído em 13/06/2021 | [Certificado](https://coursera.org/share/27dcb426566897493e58b38b8bec8cce)
