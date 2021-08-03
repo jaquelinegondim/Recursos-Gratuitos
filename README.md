@@ -61,6 +61,8 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
   - [x] Java OO: Introdução à Orientação a Objetos (8h) | Concluído em 28/07/2021 | [Certificado](https://drive.google.com/file/d/1AyJdoBMygAMfzHI_7hkkq-t1PM1jVjE4/view?usp=sharing)
   - [x] Java Polimorfismo: Entenda Herança e Interfaces (16h) | Concluído em 29/07/2021 | [Certificado](https://drive.google.com/file/d/1mmpRZ-Xb2Y5pZy2LR80vvLSPyudS3Cdm/view?usp=sharing)
   - [x] Java Exceções: Aprenda a criar, lançar e controlar exceções (12h) | Concluído em 30/07/2021 | [Certificado](https://drive.google.com/file/d/1zrts6USaWSuCbSTrH76ecTz3LWhiRPLZ/view?usp=sharing)
+  - [x] Pitch Entrevistas: Faça apresentações de impacto (6h) | Concluído em 01/08/2021 | [Certificado](https://drive.google.com/file/d/1bT2dwVCok2pPhbOTT6YNyuGsnPe52R9P/view?usp=sharing)
+  - [x] Java e java.lang: Programe com a classe Object e String (12h) | Concluído em 02/08/2021 | [Certificado](https://drive.google.com/file/d/1bT2dwVCok2pPhbOTT6YNyuGsnPe52R9P/view?usp=sharing)
 - [Digital Innovation One](https://digitalinnovation.one/): 
   - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital: Faltou o projeto, estudar Java com Maven e Spring Boot por outras referências e tentar este projeto de novo em outro *bootcamp* da DIO
     - [x] Lógica de Programação Essencial (4h) | [Certificado](https://certificates.digitalinnovation.one/35272DF6)
