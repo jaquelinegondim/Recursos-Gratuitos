@@ -27,8 +27,8 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
 | [Coursera](https://www.coursera.org/)                        | Conteúdo gratuito, certificado é pago, mas há a opção de solicitar auxílio financeiro |
 | [EDX](https://www.edx.org/)                                  | Conteúdo gratuito, certificado é pago, auxílio financeiro não cobre 100% |
 | [Eduonix](https://www.eduonix.com/courses/) \| [Udemy](https://www.udemy.com/) \| [Udacity](https://www.udacity.com/) \| [Codeacademy](http://codeacademy.com/) | Há cursos pagos e gratuitos                                  |
-| [Freecodecamp](https://www.freecodecamp.org/learn/)          | Bootcamp com 10 certificações gratuitas que cobrem desde desenvolvimento web à análise de dados com python |
-| [The Odin Project](https://www.theodinproject.com/home)      | Bootcamp focado em desenvolvimento web                       |
+| [Freecodecamp](https://www.freecodecamp.org/learn/)          | *Bootcamp* com 10 certificações gratuitas que cobrem desde desenvolvimento web à análise de dados com python |
+| [The Odin Project](https://www.theodinproject.com/home)      | *Bootcamp* focado em desenvolvimento web                     |
 | [CSS3 in 30 Days](https://codecollege.ca/p/css3-coding-challenge) | Desafio gratuito com 30 mini-projetos em CSS                 |
 | [CSS3 in 100 Days](https://100dayscss.com/)                  | Desafio gratuito com 100 mini-projetos em CSS                |
 | [JS in 30 Days](https://javascript30.com/)                   | Desafio gratuito com 30 mini-projetos em JS                  |
@@ -64,6 +64,7 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
   - [x] Pitch Entrevistas: Faça apresentações de impacto (6h) | Concluído em 01/08/2021 | [Certificado](https://drive.google.com/file/d/1bT2dwVCok2pPhbOTT6YNyuGsnPe52R9P/view?usp=sharing)
   - [x] Java e java.lang: Programe com a classe Object e String (12h) | Concluído em 02/08/2021 | [Certificado](https://drive.google.com/file/d/1bT2dwVCok2pPhbOTT6YNyuGsnPe52R9P/view?usp=sharing)
   - [x] Java e java.util: Coleções, Wrappers e Lambda Expressions (12h) | Concluído em 03/08/2021 | [Certificado](https://drive.google.com/file/d/1LXdFS6BfGXVa__58Aw_DeocxDbU_2ecy/view?usp=sharing)
+  - [x] HTTP: Entendendo a web por baixo dos panos (14h) | Concluído em 04/08/2021 | [Certificado](https://drive.google.com/file/d/1jz2XkseQls4N7AZoWCPBl-SpYyGAeupI/view?usp=sharing)
 - [Digital Innovation One](https://digitalinnovation.one/): 
   - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital: Faltou o projeto, estudar Java com Maven e Spring Boot por outras referências e tentar este projeto de novo em outro *bootcamp* da DIO
     - [x] Lógica de Programação Essencial (4h) | [Certificado](https://certificates.digitalinnovation.one/35272DF6)
