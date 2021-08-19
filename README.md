@@ -66,6 +66,7 @@ Esta é uma lista com diversos recursos gratuitos, tanto em português quanto em
   - [x] Java e java.util: Coleções, Wrappers e Lambda Expressions (12h) | Concluído em 03/08/2021 | [Certificado](https://drive.google.com/file/d/1LXdFS6BfGXVa__58Aw_DeocxDbU_2ecy/view?usp=sharing)
   - [x] HTTP: Entendendo a web por baixo dos panos (14h) | Concluído em 04/08/2021 | [Certificado](https://drive.google.com/file/d/1jz2XkseQls4N7AZoWCPBl-SpYyGAeupI/view?usp=sharing)
   - [x] Java e java.io: Streams, Reader e Writers (12h) | Concluído em 06/08/2021 | [Certificado](https://drive.google.com/file/d/1WT3jJEAbmndSm4yoFgfzcaPmAr_EWe2m/view?usp=sharing)
+  - [x] Maven: Gerenciamento de dependências e build de aplicações Java (8h) | Concluído em 10/08/2021 | [Certificado](https://drive.google.com/file/d/1j0AhJnqMv1k_XSiYIgCW-6-b489mG6E6/view?usp=sharing)
 - [Digital Innovation One](https://digitalinnovation.one/): 
   - [ ] Bootcamp Code Anywhere da Avanade e Porto Digital: Faltou o projeto, estudar Java com Maven e Spring Boot por outras referências e tentar este projeto de novo em outro *bootcamp* da DIO
     - [x] Lógica de Programação Essencial (4h) | [Certificado](https://certificates.digitalinnovation.one/35272DF6)
